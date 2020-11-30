@@ -20,10 +20,10 @@
 
 @media screen and (max-width: 1250px) {
  .leftcolumn{
-    display: none;
+   width: 25%;
   }
 .rightcolumn{
-  width: 24%;
+  display: none;
  }
 .centercolumn{
   width:75%;
